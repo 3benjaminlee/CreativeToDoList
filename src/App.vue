@@ -82,9 +82,11 @@
       <snackbar />
     </v-main>
   <div>
+    
   <div class="fluid-container footer">
-    <p class="text-center">Copyright 2018, ABC Marketing. All Rights Reserved.</p>
+   <p class="text-center"> <a href="https://github.com/3benjaminlee/CreativeToDoList" target="_blank"> Link To My Github     </a>   Hours Spent: 17+ </p>
   </div>
+ 
 </div>
 
   </v-app>
@@ -119,4 +121,5 @@ import Snackbar from './components/Shared/Snackbar.vue'
     margin-bottom: 0px;
     color: black;
   }
+
 </style>
