@@ -1,19 +1,3 @@
-# final
+Created a "To Do List" using Vue.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This was a passion project and I wanted to see the capabilities of a new language
